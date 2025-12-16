@@ -1,0 +1,107 @@
+{
+  "id": "pf2e-fetish-vore",
+  "title": "PF2e-Fetish Vore",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Azavit",
+      "discord": "azavit",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pf2e-fetish-vore-actors",
+      "label": "PF2e-Fetish Vore Actors",
+      "path": "packs/pf2e-fetish-vore-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "pf2e-fetish-vore-items",
+      "label": "PF2e-Fetish Vore Items",
+      "path": "packs/pf2e-fetish-vore-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "pf2e-fetish-vore-journals",
+      "label": "PF2e-Fetish Vore Journals",
+      "path": "packs/pf2e-fetish-vore-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "pf2e-fetish-vore-macros",
+      "label": "PF2e-Fetish Vore Macros",
+      "path": "packs/pf2e-fetish-vore-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "pf2e-fetish-vore-rolltable",
+      "label": "PF2e-Fetish Vore RollTable",
+      "path": "packs/pf2e-fetish-vore-rolltable",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "pf2e-fetish-core",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "",
+  "packFolders": [
+    {
+      "name": "PF2e Fetish",
+      "sorting": "m",
+      "packs": [],
+      "color": "#e071fe",
+      "folders": [
+        {
+          "name": "Vore",
+          "sorting": "a",
+          "packs": [
+            "pf2e-fetish-vore-actors",
+            "pf2e-fetish-vore-items",
+            "pf2e-fetish-vore-journals",
+            "pf2e-fetish-vore-macros",
+            "pf2e-fetish-vore-rolltable"
+          ]
+        }
+      ]
+    }
+  ]
+}
