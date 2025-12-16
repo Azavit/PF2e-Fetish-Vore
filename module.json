@@ -22,55 +22,55 @@
       "label": "PF2e-Fetish Vore Actors",
       "path": "packs/pf2e-fetish-vore-actors",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "pf2e-fetish-vore-items",
       "label": "PF2e-Fetish Vore Items",
       "path": "packs/pf2e-fetish-vore-items",
       "type": "Item",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "pf2e-fetish-vore-journals",
       "label": "PF2e-Fetish Vore Journals",
       "path": "packs/pf2e-fetish-vore-journals",
       "type": "JournalEntry",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "pf2e-fetish-vore-macros",
       "label": "PF2e-Fetish Vore Macros",
       "path": "packs/pf2e-fetish-vore-macros",
       "type": "Macro",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     },
     {
       "name": "pf2e-fetish-vore-rolltable",
       "label": "PF2e-Fetish Vore RollTable",
       "path": "packs/pf2e-fetish-vore-rolltable",
       "type": "RollTable",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ],
   "relationships": {
@@ -82,7 +82,6 @@
       }
     ]
   },
-  "description": "",
   "packFolders": [
     {
       "name": "PF2e Fetish",
@@ -99,9 +98,13 @@
             "pf2e-fetish-vore-journals",
             "pf2e-fetish-vore-macros",
             "pf2e-fetish-vore-rolltable"
-          ]
+          ],
+          "color": null,
+          "folders": []
         }
       ]
     }
-  ]
+  ],
+  "url": "https://github.com/Azavit/PF2e-Fetish-Vore",
+  "description": ""
 }
