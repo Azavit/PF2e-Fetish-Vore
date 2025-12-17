@@ -105,6 +105,21 @@
       ]
     }
   ],
+    "flags": {
+    "pf2e-fetish-vore": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "digestion": "Digestion"
+        },
+        "weaponTraits": {
+          "digestion": "Digestion"
+        },
+        "spellTraits": {
+          "digestion": "Digestion"
+        }
+      }
+    }
+  },
   "url": "https://github.com/Azavit/PF2e-Fetish-Vore",
   "description": ""
 }

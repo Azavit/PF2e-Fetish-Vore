@@ -1,7 +1,7 @@
-2025/12/16-02:30:45.022 1dbc Recovering log #77
-2025/12/16-02:30:45.026 1dbc Delete type=0 #77
-2025/12/16-02:30:45.026 1dbc Delete type=3 #76
-2025/12/16-02:31:17.434 27e8 Level-0 table #81: started
-2025/12/16-02:31:17.434 27e8 Level-0 table #81: 0 bytes OK
-2025/12/16-02:31:17.436 27e8 Delete type=0 #79
-2025/12/16-02:31:17.436 27e8 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/12/16-16:10:46.496 cac Recovering log #102
+2025/12/16-16:10:46.501 cac Delete type=0 #102
+2025/12/16-16:10:46.501 cac Delete type=3 #100
+2025/12/16-16:17:33.396 3a7c Level-0 table #107: started
+2025/12/16-16:17:33.396 3a7c Level-0 table #107: 0 bytes OK
+2025/12/16-16:17:33.398 3a7c Delete type=0 #105
+2025/12/16-16:17:33.398 3a7c Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
