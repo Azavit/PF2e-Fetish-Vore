@@ -109,13 +109,16 @@
     "pf2e-fetish-vore": {
       "pf2e-homebrew": {
         "featTraits": {
-          "digestion": "Digestion"
+          "digestion": "Digestion",
+          "rupture": "Rupture"
         },
         "weaponTraits": {
-          "digestion": "Digestion"
+          "digestion": "Digestion",
+          "rupture": "Rupture"
         },
         "spellTraits": {
-          "digestion": "Digestion"
+          "digestion": "Digestion",
+          "rupture": "Rupture"
         }
       }
     }
